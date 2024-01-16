@@ -68,3 +68,44 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# React SPA Project
+
+This project is a Single Page Application (SPA) built with React. It includes multiple pages, form handling, API integration, animations, and more.
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Folder Structure](#folder-structure)
+- [Themes](#themes)
+- [Multilingual Support](#multilingual-support)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+1. Multiple pages (Home, About, Profile).
+2. Functional components with React Hooks.
+3. React Router for navigation.
+4. Form handling using React Hook Form and validation with Yup.
+5. API integration using Axios.
+6. Animations with Framer Motion.
+7. Interaction with Storage (Session / Local).
+8. Responsive design compatible with various devices.
+9. Two themes (Dark / Light).
+10. Multilingual support (Georgian and English).
+
+## Technologies Used
+
+- React
+- React Hooks
+- React Router
+- React Hook Form
+- Yup
+- Axios
+- Framer Motion
+
